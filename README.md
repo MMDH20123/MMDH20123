@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MMDH20123
-- 👀 I’m interested in Games and tech
-- 🌱 I’m currently learning Game development
+- 👀 I’m interested in Games and tech/programming
+- 🌱 I’m currently learning Cybersecurity in University
 - 📫 How to reach me mmm.myton@gmail.com or instagram @_mmd_yt
 
 <!---
